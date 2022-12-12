@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **SQL/POWERBI/TABLEAU**
+- 💬 Ask me about **SQL/POWERBI/Python**
 
 - 📫 How to reach me **kaybaffy@gmail.com**
 
